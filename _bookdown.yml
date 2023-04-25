@@ -1,5 +1,5 @@
 book_filename: "bookdown-demo"
-output_dir: yml_blank()
+output_dir:
 language:
   ui:
     chapter_name: "Chapter "
